@@ -6,3 +6,4 @@
 html .radio-float header h1{font-size:22px;letter-spacing:-.5px}html .radio-float #stationPanel{overflow-y:auto}html #stations{min-height:180px;flex:1 0 180px}html .radio-float .player{flex-shrink:0}
 @media(max-width:600px){.et-heading>span{font-size:8px}.ets2-control{padding-top:4px}.et-controls button{font-size:10px;padding:8px}.et-dialog{padding:20px}}
 html .radio-float #stationPanel #stations{min-height:180px;flex:1 0 180px}
+.et-setup{width:min(460px,calc(100vw - 32px));max-height:85dvh;overflow:auto}.et-setup h2{font-size:19px}.et-setup ol{padding-left:22px;font-size:13px;line-height:1.8}.et-setup li+li{margin-top:8px}.et-setup-actions{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px;margin-top:20px}.et-setup button[hidden]{display:none}
